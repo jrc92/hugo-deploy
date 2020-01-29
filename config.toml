@@ -1,0 +1,9 @@
+baseURL = "http://hugo-deploy-28jan.s3-website.us-east-2.amazonaws.com/"
+languageCode = "en-us"
+title = "Jia Rong's website!"
+theme = "gohugo-ananke"
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "awsbucket"
+URL = "s3://hugo-deploy-28jan/?region=us-east-2"

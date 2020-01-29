@@ -1,0 +1,15 @@
+[submodule "themes/bp"]
+	path = themes/bp
+	url = https://github.com/spech66/bootstrap-bp-hugo-startpage.git
+[submodule "themes/hugo-refresh"]
+	path = themes/hugo-refresh
+	url = https://github.com/PippoRJ/hugo-refresh.git
+[submodule "themes/papaya"]
+	path = themes/papaya
+	url = https://github.com/plopcas/papaya.git
+[submodule "themes/themes/ananke"]
+	path = themes/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/gohugo-ananke"]
+	path = themes/gohugo-ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
